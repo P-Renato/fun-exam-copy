@@ -52,13 +52,28 @@ If you are unsure of an answer, write about what you know about the topic or wha
     - The IP address 8.45.260.61 is invalid because 260 is outside the valid range for an octet in an IPv4 address.
     
 - Question 5: Give an example of an IPv6 address.
+    - 2001:0db8:85a3:0000:0000:8a2e:0370:7334
+        - This is a 128-bit address written in hexadecimal and divided into 8 groups, separated by colons (:).
+        - Each group represents 16 bits (4 hexadecimal digits).
 
 - Question 6: What is your current internal IP address?
-
+    - 192.168.0.66
 - Question 7: What is your current external IP address?
+    - 2a02:8109:9dab:5600:8e07:e035:949a:2f54
 
 - Question 8: What is the purpose of DNS?
+    - It's purpose to make IP addresses into readable name for people, which is easier to memorize.
 
 - Question 9: List 10 different top level domains
+    1.com – Originally intended for commercial organizations, but now used globally by businesses, blogs, and personal websites.
+    2.org – Typically used by non-profit organizations, but also adopted by many other types of websites.
+    3.net – Initially intended for network providers and infrastructure-related sites, but now used by various entities.
+    4.edu – Reserved for educational institutions, particularly universities and colleges in the United States.
+    5.gov – Reserved for U.S. government entities and organizations.
+    6.io – Originally the country code for the British Indian Ocean Territory, now popular with tech startups and projects.
+    7.co – Originally the country code for Colombia, but now used by companies and startups as an alternative to .com.
+    8.biz – Intended for businesses, especially small businesses, and commercial sites.
+    9.tv – Originally for the country of Tuvalu, but widely used for websites related to television, media, and streaming.
+    10.me – Originally the country code for Montenegro, but now often used for personal websites or branding (e.g., "yourname.me").
 
 - Question 10: Give two examples of URLs with a subdomain
