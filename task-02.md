@@ -46,8 +46,6 @@ If you are unsure of an answer, write about what you know about the topic or wha
 - Question 3: What does the IP `127.0.0.1` refer to?
     - The IP address `127.0.0.1`is a Loopback address ad it allows a device to send data to itself for internal communication and testing. It is commonly used for local testing, web development (localhost), and network diagnostics.
 
-
-
 - Question 4: What is wrong with `8.45.260.61` as an IP address?
     - The IP address 8.45.260.61 is invalid because 260 is outside the valid range for an octet in an IPv4 address.
     
@@ -65,15 +63,17 @@ If you are unsure of an answer, write about what you know about the topic or wha
     - It's purpose to make IP addresses into readable name for people, which is easier to memorize.
 
 - Question 9: List 10 different top level domains
-    1.com – Originally intended for commercial organizations, but now used globally by businesses, blogs, and personal websites.
-    2.org – Typically used by non-profit organizations, but also adopted by many other types of websites.
-    3.net – Initially intended for network providers and infrastructure-related sites, but now used by various entities.
-    4.edu – Reserved for educational institutions, particularly universities and colleges in the United States.
-    5.gov – Reserved for U.S. government entities and organizations.
-    6.io – Originally the country code for the British Indian Ocean Territory, now popular with tech startups and projects.
-    7.co – Originally the country code for Colombia, but now used by companies and startups as an alternative to .com.
-    8.biz – Intended for businesses, especially small businesses, and commercial sites.
-    9.tv – Originally for the country of Tuvalu, but widely used for websites related to television, media, and streaming.
-    10.me – Originally the country code for Montenegro, but now often used for personal websites or branding (e.g., "yourname.me").
+    1. com – Originally intended for commercial organizations, but now used globally by businesses, blogs, and personal websites.
+    2. org – Typically used by non-profit organizations, but also adopted by many other types of websites.
+    3. net – Initially intended for network providers and infrastructure-related sites, but now used by various entities.
+    4. edu – Reserved for educational institutions, particularly universities and colleges in the United States.
+    5. gov – Reserved for U.S. government entities and organizations.
+    6. io – Originally the country code for the British Indian Ocean Territory, now popular with tech startups and projects.
+    7. co – Originally the country code for Colombia, but now used by companies and startups as an alternative to .com.
+    8. biz – Intended for businesses, especially small businesses, and commercial sites.
+    9. tv – Originally for the country of Tuvalu, but widely used for websites related to television, media, and streaming.
+    10. me – Originally the country code for Montenegro, but now often used for personal websites or branding (e.g., "yourname.me").
 
 - Question 10: Give two examples of URLs with a subdomain
+    - en.wikipedia.org
+    - support.google.com
