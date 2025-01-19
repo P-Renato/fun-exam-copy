@@ -15,7 +15,7 @@ If you are unsure of an answer, write about what you know about the topic or wha
 - Answer 1: It means one is adding the changes to the file, and the "." refers to all changes.
 
 - Question 2: What is the difference between `git pull` and `git clone`?
-- Answer 2: 'git pull' 
+- Answer 2: 'git pull' is to update an already existing repo, whereas 'git clone' creats a local copy of an entire remote repo.
 
 - Question 3: What command can you use to see the currently active branch?
 - Answer 3: git branch
@@ -24,7 +24,7 @@ If you are unsure of an answer, write about what you know about the topic or wha
 - Answer 4: 
 
 - Question 5: What makes a folder a Git repository?
-- Answer
+- Answer 5: git init
 
 - Question 6: Explain the command `git checkout -b new-branch`.
 - Answer 6: This commands brings you to a new branch that it's being created simultaneously.
